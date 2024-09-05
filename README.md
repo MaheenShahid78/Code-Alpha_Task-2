@@ -29,8 +29,9 @@ You can install the required packages using:
 
 bash
 
+pip install pandas
+numpy
 
-pip install pandas numpy
 Usage
 Clone the repository:https://github.com/MaheenShahid78/Code-Alpha_Task-2
 
@@ -41,6 +42,7 @@ git clone https://github.com/MaheenShahid78/Code-Alpha_Task-2
 Navigate to the project directory:
 
 bash
+
 cd your-repo-name
 
 Run the Jupyter Notebook:
