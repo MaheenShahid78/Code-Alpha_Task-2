@@ -1,4 +1,5 @@
 #Feature Engineering with Machine Failure Dataset
+
 This project demonstrates the process of feature engineering using a dataset related to machine failures. The notebook includes steps to load the dataset, check for missing values, and create new features that can be used for predictive modeling.
 
 #Contents
@@ -16,6 +17,7 @@ Rolling statistics for temperature, rotational speed, and torque
 Python 3.x
 Pandas
 NumPy
+
 You can install the required packages using:
 bash
 pip install pandas numpy
