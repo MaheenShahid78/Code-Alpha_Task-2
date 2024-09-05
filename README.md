@@ -1,34 +1,28 @@
-#Feature Engineering with Machine Failure Dataset
+# Feature Engineering with Machine Failure Dataset
 
 This project demonstrates the process of feature engineering using a dataset related to machine failures. The notebook includes steps to load the dataset, check for missing values, and create new features that can be used for predictive modeling.
 
-#Contents
+## Contents
 
-Data Loading: 
-
+- Data Loading: 
 Importing the dataset and displaying the first few rows.
-Missing Values Check:
 
+- Missing Values Check:
 Identifying and handling missing data in the dataset.
 
-#Feature Creation:
+## Feature Creation:
 
-Time-based features
+- Time-based features
+- Rolling statistics for temperature, rotational speed, and torque
 
-Rolling statistics for temperature, rotational speed, and torque
+## Requirements
 
-#Requirements
-
-Python 3.x
-
-Pandas
-
-NumPy
+- Python 3.x
+- Pandas
+- NumPy
 
 You can install the required packages using:
-
 bash
-
 pip install pandas
 numpy
 
@@ -36,14 +30,11 @@ Usage
 Clone the repository:https://github.com/MaheenShahid78/Code-Alpha_Task-2
 
 bash
-
 git clone https://github.com/MaheenShahid78/Code-Alpha_Task-2
 
 Navigate to the project directory:
 
 bash
-
-cd your-repo-name
 
 Run the Jupyter Notebook:
 
