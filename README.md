@@ -46,7 +46,7 @@ Required Python libraries (listed in requirements.txt)
     bash
     jupyter notebook
    
-3. Open the Feature Engineering.ipynb notebook and run the cells to execute the code step-by-step.
+2. Open the Feature Engineering.ipynb notebook and run the cells to execute the code step-by-step.
 
 ## Project Structure
 
